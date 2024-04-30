@@ -1,4 +1,4 @@
-.navbar > a{
+.Nav-link {
     display: inline-block;
     box-sizing: border-box;
     width: 70px;
@@ -11,7 +11,7 @@
     color: black;
 }
   
-a.active {
+.Nav-link.active {
     background: black;
     color: white;
 }
